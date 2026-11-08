@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbe3ec"/><stop offset="1" stop-color="#f1b5c9"/></linearGradient>
+<linearGradient id="pet" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#ee9ab5"/><stop offset=".5" stop-color="#fbe3ec"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+</defs>
+<rect width="512" height="512" fill="url(#bg)"/>
+<g transform="translate(256 256) scale(1.7) translate(-100 -100)">
+<g fill="url(#pet)" stroke="#e08fae" stroke-width="1.2"><g transform="rotate(60 100 100)"><path d="M100 100C78 72 80 36 100 12C120 36 122 72 100 100Z"/></g><g transform="rotate(180 100 100)"><path d="M100 100C78 72 80 36 100 12C120 36 122 72 100 100Z"/></g><g transform="rotate(300 100 100)"><path d="M100 100C78 72 80 36 100 12C120 36 122 72 100 100Z"/></g><g transform="rotate(0 100 100)"><path d="M100 100C76 70 78 30 100 4C122 30 124 70 100 100Z"/></g><g transform="rotate(120 100 100)"><path d="M100 100C76 70 78 30 100 4C122 30 124 70 100 100Z"/></g><g transform="rotate(240 100 100)"><path d="M100 100C76 70 78 30 100 4C122 30 124 70 100 100Z"/></g></g>
+<g stroke="#8fa68a" stroke-width="2.4" stroke-linecap="round" fill="none"><path d="M100 100L100 62" /><path d="M100 100L76 72" /><path d="M100 100L124 72" /><path d="M100 100L82 128" /><path d="M100 100L118 128" /></g>
+<g fill="#d9a85b"><circle cx="100" cy="60" r="4.5"/><circle cx="75" cy="70" r="4.5"/><circle cx="125" cy="70" r="4.5"/><circle cx="81" cy="130" r="4.5"/><circle cx="119" cy="130" r="4.5"/></g>
+</g>
+</svg>
